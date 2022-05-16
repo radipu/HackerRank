@@ -1,0 +1,14 @@
+C:\Users\curet\source\repos\SumMinMax\SumMinMax\bin\Debug\netcoreapp3.1\SumMinMax.exe
+C:\Users\curet\source\repos\SumMinMax\SumMinMax\bin\Debug\netcoreapp3.1\SumMinMax.deps.json
+C:\Users\curet\source\repos\SumMinMax\SumMinMax\bin\Debug\netcoreapp3.1\SumMinMax.runtimeconfig.json
+C:\Users\curet\source\repos\SumMinMax\SumMinMax\bin\Debug\netcoreapp3.1\SumMinMax.runtimeconfig.dev.json
+C:\Users\curet\source\repos\SumMinMax\SumMinMax\bin\Debug\netcoreapp3.1\SumMinMax.dll
+C:\Users\curet\source\repos\SumMinMax\SumMinMax\bin\Debug\netcoreapp3.1\SumMinMax.pdb
+C:\Users\curet\source\repos\SumMinMax\SumMinMax\obj\Debug\netcoreapp3.1\SumMinMax.csproj.AssemblyReference.cache
+C:\Users\curet\source\repos\SumMinMax\SumMinMax\obj\Debug\netcoreapp3.1\SumMinMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\curet\source\repos\SumMinMax\SumMinMax\obj\Debug\netcoreapp3.1\SumMinMax.AssemblyInfoInputs.cache
+C:\Users\curet\source\repos\SumMinMax\SumMinMax\obj\Debug\netcoreapp3.1\SumMinMax.AssemblyInfo.cs
+C:\Users\curet\source\repos\SumMinMax\SumMinMax\obj\Debug\netcoreapp3.1\SumMinMax.csproj.CoreCompileInputs.cache
+C:\Users\curet\source\repos\SumMinMax\SumMinMax\obj\Debug\netcoreapp3.1\SumMinMax.dll
+C:\Users\curet\source\repos\SumMinMax\SumMinMax\obj\Debug\netcoreapp3.1\SumMinMax.pdb
+C:\Users\curet\source\repos\SumMinMax\SumMinMax\obj\Debug\netcoreapp3.1\SumMinMax.genruntimeconfig.cache
