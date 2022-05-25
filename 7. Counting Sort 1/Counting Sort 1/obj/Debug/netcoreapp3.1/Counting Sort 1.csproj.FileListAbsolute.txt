@@ -1,0 +1,14 @@
+C:\Users\curet\source\repos\Counting Sort 1\Counting Sort 1\bin\Debug\netcoreapp3.1\Counting Sort 1.exe
+C:\Users\curet\source\repos\Counting Sort 1\Counting Sort 1\bin\Debug\netcoreapp3.1\Counting Sort 1.deps.json
+C:\Users\curet\source\repos\Counting Sort 1\Counting Sort 1\bin\Debug\netcoreapp3.1\Counting Sort 1.runtimeconfig.json
+C:\Users\curet\source\repos\Counting Sort 1\Counting Sort 1\bin\Debug\netcoreapp3.1\Counting Sort 1.runtimeconfig.dev.json
+C:\Users\curet\source\repos\Counting Sort 1\Counting Sort 1\bin\Debug\netcoreapp3.1\Counting Sort 1.dll
+C:\Users\curet\source\repos\Counting Sort 1\Counting Sort 1\bin\Debug\netcoreapp3.1\Counting Sort 1.pdb
+C:\Users\curet\source\repos\Counting Sort 1\Counting Sort 1\obj\Debug\netcoreapp3.1\Counting Sort 1.csproj.AssemblyReference.cache
+C:\Users\curet\source\repos\Counting Sort 1\Counting Sort 1\obj\Debug\netcoreapp3.1\Counting Sort 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\curet\source\repos\Counting Sort 1\Counting Sort 1\obj\Debug\netcoreapp3.1\Counting Sort 1.AssemblyInfoInputs.cache
+C:\Users\curet\source\repos\Counting Sort 1\Counting Sort 1\obj\Debug\netcoreapp3.1\Counting Sort 1.AssemblyInfo.cs
+C:\Users\curet\source\repos\Counting Sort 1\Counting Sort 1\obj\Debug\netcoreapp3.1\Counting Sort 1.csproj.CoreCompileInputs.cache
+C:\Users\curet\source\repos\Counting Sort 1\Counting Sort 1\obj\Debug\netcoreapp3.1\Counting Sort 1.dll
+C:\Users\curet\source\repos\Counting Sort 1\Counting Sort 1\obj\Debug\netcoreapp3.1\Counting Sort 1.pdb
+C:\Users\curet\source\repos\Counting Sort 1\Counting Sort 1\obj\Debug\netcoreapp3.1\Counting Sort 1.genruntimeconfig.cache
