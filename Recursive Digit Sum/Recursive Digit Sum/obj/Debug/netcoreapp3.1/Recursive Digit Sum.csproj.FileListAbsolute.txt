@@ -1,0 +1,14 @@
+C:\Users\curet\source\repos\Recursive Digit Sum\Recursive Digit Sum\bin\Debug\netcoreapp3.1\Recursive Digit Sum.exe
+C:\Users\curet\source\repos\Recursive Digit Sum\Recursive Digit Sum\bin\Debug\netcoreapp3.1\Recursive Digit Sum.deps.json
+C:\Users\curet\source\repos\Recursive Digit Sum\Recursive Digit Sum\bin\Debug\netcoreapp3.1\Recursive Digit Sum.runtimeconfig.json
+C:\Users\curet\source\repos\Recursive Digit Sum\Recursive Digit Sum\bin\Debug\netcoreapp3.1\Recursive Digit Sum.runtimeconfig.dev.json
+C:\Users\curet\source\repos\Recursive Digit Sum\Recursive Digit Sum\bin\Debug\netcoreapp3.1\Recursive Digit Sum.dll
+C:\Users\curet\source\repos\Recursive Digit Sum\Recursive Digit Sum\bin\Debug\netcoreapp3.1\Recursive Digit Sum.pdb
+C:\Users\curet\source\repos\Recursive Digit Sum\Recursive Digit Sum\obj\Debug\netcoreapp3.1\Recursive Digit Sum.csproj.AssemblyReference.cache
+C:\Users\curet\source\repos\Recursive Digit Sum\Recursive Digit Sum\obj\Debug\netcoreapp3.1\Recursive Digit Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\curet\source\repos\Recursive Digit Sum\Recursive Digit Sum\obj\Debug\netcoreapp3.1\Recursive Digit Sum.AssemblyInfoInputs.cache
+C:\Users\curet\source\repos\Recursive Digit Sum\Recursive Digit Sum\obj\Debug\netcoreapp3.1\Recursive Digit Sum.AssemblyInfo.cs
+C:\Users\curet\source\repos\Recursive Digit Sum\Recursive Digit Sum\obj\Debug\netcoreapp3.1\Recursive Digit Sum.csproj.CoreCompileInputs.cache
+C:\Users\curet\source\repos\Recursive Digit Sum\Recursive Digit Sum\obj\Debug\netcoreapp3.1\Recursive Digit Sum.dll
+C:\Users\curet\source\repos\Recursive Digit Sum\Recursive Digit Sum\obj\Debug\netcoreapp3.1\Recursive Digit Sum.pdb
+C:\Users\curet\source\repos\Recursive Digit Sum\Recursive Digit Sum\obj\Debug\netcoreapp3.1\Recursive Digit Sum.genruntimeconfig.cache
